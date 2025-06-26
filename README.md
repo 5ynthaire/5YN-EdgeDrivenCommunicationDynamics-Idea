@@ -1,0 +1,2 @@
+# 5YN-EdgeDrivenCommunicationDynamics-Idea
+
