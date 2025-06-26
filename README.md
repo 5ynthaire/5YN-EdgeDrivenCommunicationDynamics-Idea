@@ -78,3 +78,8 @@ As of June 26, 2025, searches across linguistics (pragmatics, rhetoric, cognitiv
 ## Conclusion
 
 Edge-Driven Communication Dynamics reveals how language’s edges—errors, weighted traits, generality—reshape meaning in unexpected ways, offering tools for LLM clarity, linguistic theory, and policy debates.
+
+## License
+
+This idea is released under [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 4.0).  
+For commercial use or collaboration, DM [@5ynthaire] instead of forking. Tag [@5ynthaire] on X with Edge-Driven Communication Dynamics use or open an Issue labeled “EdgeDrivenCommunicationDynamics-use” to share ideas.
