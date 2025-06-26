@@ -1,6 +1,6 @@
 # Edge-Driven Communication Dynamics for LLM Clarity Enhancement
 
-This repository archives a novel set of linguistic phenomena that exploit edge cases in communication—errors, weighted traits, and generality—to shape meaning in unexpected ways, with potential to enhance LLM clarity. Developed through an iterative human-AI dialogue in March 2025, these phenomena emerged from exploring how language’s boundaries affect interpretation, offering insights for linguistics, AI, and policy. Discover their origins in my Substack article [link] and join the conversation for collaboration.
+This repository archives a novel set of linguistic phenomena that exploit edge cases in communication—errors, weighted traits, and generality—to shape meaning in unexpected ways, with potential to enhance LLM clarity. Developed through an iterative human-AI dialogue in March 2025, these phenomena emerged from exploring how language’s boundaries affect interpretation, offering insights for linguistics, AI, and policy debates. <!--Discover their origins in my Substack article [link] and join the conversation for collaboration.-->
 
 ## About
 
@@ -22,6 +22,7 @@ The error’s mismatch with reality highlights a unique trait, prompting context
 **Examples**  
 - In a zoo housing ten exotic birds from diverse regions, a child points at a bird with a distinctive pig-like snout and exclaims, “Look at that pig!” The parent instantly identifies the bird, as “pig”—though completely wrong—highlights the snout’s unique shape, narrowing it to the one bird with that trait; a correct “bird” could refer to any of the ten, lacking precision.
 - In a classroom with objects like notebooks, pens, a tablet, and a ruler on a teacher’s desk, a student calls the tablet a “book.” The teacher, knowing no book is present, immediately recognizes the tablet, as “book” mistakenly emphasizes its flat, rectangular shape, distinguishing it from other items, unlike “object,” which applies to anything on the desk.  
+
 
 **LLM Application**  
 An Error-Injection Feedback Loop could enhance LLM performance by introducing controlled errors into prompts (e.g., swapping “car in ocean” for “submarine”) to force contextual inference. By preprocessing ambiguous queries with deliberate mislabels mapped to ontologies (e.g., zoo animals, vehicle types), the model prioritizes relevant outputs, using corpus statistics to guide corrections. This speculative approach integrates with existing transformer pipelines, adding a lightweight error-generation layer.  
